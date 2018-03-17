@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\App",
+    "\\App\\Dictionary"
   ],
-  "SelectedNode": "\\His.sln",
+  "SelectedNode": "\\App\\Dictionary\\FrmFactory.cs",
   "PreviewInSolutionExplorer": false
 }
